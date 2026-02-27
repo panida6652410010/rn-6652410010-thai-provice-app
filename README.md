@@ -25,12 +25,6 @@
 </p>
 <p align="center"><i>โครงสร้างตารางฐานข้อมูลที่ใช้บน Supabase</i></p>
 
-## เทคโนโลยีที่ใช้ (Tech Stack)
-- **Frontend**: React Native, Expo, TypeScript
-- **Styling**: Vanilla CSS (StyleSheet)
-- **Icons**: Lucide React Native
-- **Backend/Database**: Supabase (PostgreSQL)
-- **Navigation**: React Navigation (Native Stack)
 
 ## การติดตั้งและใช้งาน (Installation)
 
@@ -50,5 +44,4 @@
    ```
 
 ---
-จัดทำโดย: 
-- Panida Sottapok (s6652410010@sau.ac.th)
+
